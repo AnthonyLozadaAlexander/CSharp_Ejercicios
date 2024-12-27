@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Fizz_Buzz\bin\Debug\net8.0\Ejercicio_Fizz_Buzz.exe
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Fizz_Buzz\bin\Debug\net8.0\Ejercicio_Fizz_Buzz.deps.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Fizz_Buzz\bin\Debug\net8.0\Ejercicio_Fizz_Buzz.runtimeconfig.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Fizz_Buzz\bin\Debug\net8.0\Ejercicio_Fizz_Buzz.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Fizz_Buzz\bin\Debug\net8.0\Ejercicio_Fizz_Buzz.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Fizz_Buzz\obj\Debug\net8.0\Ejercicio_Fizz_Buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Fizz_Buzz\obj\Debug\net8.0\Ejercicio_Fizz_Buzz.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Fizz_Buzz\obj\Debug\net8.0\Ejercicio_Fizz_Buzz.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Fizz_Buzz\obj\Debug\net8.0\Ejercicio_Fizz_Buzz.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Fizz_Buzz\obj\Debug\net8.0\Ejercicio_Fizz_Buzz.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Fizz_Buzz\obj\Debug\net8.0\refint\Ejercicio_Fizz_Buzz.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Fizz_Buzz\obj\Debug\net8.0\Ejercicio_Fizz_Buzz.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Fizz_Buzz\obj\Debug\net8.0\Ejercicio_Fizz_Buzz.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Fizz_Buzz\obj\Debug\net8.0\ref\Ejercicio_Fizz_Buzz.dll

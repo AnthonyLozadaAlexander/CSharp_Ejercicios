@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Determinar_SiUnNumero_Tiene_3Digitos\bin\Debug\net9.0\Determinar_SiUnNumero_Tiene_3Digitos.exe
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Determinar_SiUnNumero_Tiene_3Digitos\bin\Debug\net9.0\Determinar_SiUnNumero_Tiene_3Digitos.deps.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Determinar_SiUnNumero_Tiene_3Digitos\bin\Debug\net9.0\Determinar_SiUnNumero_Tiene_3Digitos.runtimeconfig.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Determinar_SiUnNumero_Tiene_3Digitos\bin\Debug\net9.0\Determinar_SiUnNumero_Tiene_3Digitos.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Determinar_SiUnNumero_Tiene_3Digitos\bin\Debug\net9.0\Determinar_SiUnNumero_Tiene_3Digitos.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Determinar_SiUnNumero_Tiene_3Digitos\obj\Debug\net9.0\Determinar_SiUnNumero_Tiene_3Digitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Determinar_SiUnNumero_Tiene_3Digitos\obj\Debug\net9.0\Determinar_SiUnNumero_Tiene_3Digitos.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Determinar_SiUnNumero_Tiene_3Digitos\obj\Debug\net9.0\Determinar_SiUnNumero_Tiene_3Digitos.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Determinar_SiUnNumero_Tiene_3Digitos\obj\Debug\net9.0\Determinar_SiUnNumero_Tiene_3Digitos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Determinar_SiUnNumero_Tiene_3Digitos\obj\Debug\net9.0\Determinar_SiUnNumero_Tiene_3Digitos.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Determinar_SiUnNumero_Tiene_3Digitos\obj\Debug\net9.0\refint\Determinar_SiUnNumero_Tiene_3Digitos.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Determinar_SiUnNumero_Tiene_3Digitos\obj\Debug\net9.0\Determinar_SiUnNumero_Tiene_3Digitos.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Determinar_SiUnNumero_Tiene_3Digitos\obj\Debug\net9.0\Determinar_SiUnNumero_Tiene_3Digitos.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Determinar_SiUnNumero_Tiene_3Digitos\obj\Debug\net9.0\ref\Determinar_SiUnNumero_Tiene_3Digitos.dll

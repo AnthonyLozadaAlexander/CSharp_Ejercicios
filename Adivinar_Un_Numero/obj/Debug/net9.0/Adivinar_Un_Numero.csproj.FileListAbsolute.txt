@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Adivinar_Un_Numero\bin\Debug\net9.0\Adivinar_Un_Numero.exe
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Adivinar_Un_Numero\bin\Debug\net9.0\Adivinar_Un_Numero.deps.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Adivinar_Un_Numero\bin\Debug\net9.0\Adivinar_Un_Numero.runtimeconfig.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Adivinar_Un_Numero\bin\Debug\net9.0\Adivinar_Un_Numero.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Adivinar_Un_Numero\bin\Debug\net9.0\Adivinar_Un_Numero.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Adivinar_Un_Numero\obj\Debug\net9.0\Adivinar_Un_Numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Adivinar_Un_Numero\obj\Debug\net9.0\Adivinar_Un_Numero.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Adivinar_Un_Numero\obj\Debug\net9.0\Adivinar_Un_Numero.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Adivinar_Un_Numero\obj\Debug\net9.0\Adivinar_Un_Numero.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Adivinar_Un_Numero\obj\Debug\net9.0\Adivinar_Un_Numero.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Adivinar_Un_Numero\obj\Debug\net9.0\refint\Adivinar_Un_Numero.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Adivinar_Un_Numero\obj\Debug\net9.0\Adivinar_Un_Numero.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Adivinar_Un_Numero\obj\Debug\net9.0\Adivinar_Un_Numero.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Adivinar_Un_Numero\obj\Debug\net9.0\ref\Adivinar_Un_Numero.dll

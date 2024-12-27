@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Clases\bin\Debug\net8.0\Clases.exe
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Clases\bin\Debug\net8.0\Clases.deps.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Clases\bin\Debug\net8.0\Clases.runtimeconfig.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Clases\bin\Debug\net8.0\Clases.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Clases\bin\Debug\net8.0\Clases.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Clases\obj\Debug\net8.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Clases\obj\Debug\net8.0\Clases.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Clases\obj\Debug\net8.0\Clases.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Clases\obj\Debug\net8.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Clases\obj\Debug\net8.0\Clases.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Clases\obj\Debug\net8.0\refint\Clases.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Clases\obj\Debug\net8.0\Clases.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Clases\obj\Debug\net8.0\Clases.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Clases\obj\Debug\net8.0\ref\Clases.dll

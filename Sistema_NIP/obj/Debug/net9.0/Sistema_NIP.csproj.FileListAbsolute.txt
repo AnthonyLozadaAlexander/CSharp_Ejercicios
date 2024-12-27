@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\bin\Debug\net9.0\Sistema_NIP.exe
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\bin\Debug\net9.0\Sistema_NIP.deps.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\bin\Debug\net9.0\Sistema_NIP.runtimeconfig.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\bin\Debug\net9.0\Sistema_NIP.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\bin\Debug\net9.0\Sistema_NIP.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\obj\Debug\net9.0\Sistema_NIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\obj\Debug\net9.0\Sistema_NIP.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\obj\Debug\net9.0\Sistema_NIP.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\obj\Debug\net9.0\Sistema_NIP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\obj\Debug\net9.0\Sistema_NIP.sourcelink.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\obj\Debug\net9.0\Sistema_NIP.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\obj\Debug\net9.0\refint\Sistema_NIP.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\obj\Debug\net9.0\Sistema_NIP.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\obj\Debug\net9.0\Sistema_NIP.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Sistema_NIP\obj\Debug\net9.0\ref\Sistema_NIP.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VisualStudioCode_C#_4\FuncionSumarxd\bin\Debug\net8.0\FuncionSumarxd.exe
+C:\Users\user\Desktop\VisualStudioCode_C#_4\FuncionSumarxd\bin\Debug\net8.0\FuncionSumarxd.deps.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\FuncionSumarxd\bin\Debug\net8.0\FuncionSumarxd.runtimeconfig.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\FuncionSumarxd\bin\Debug\net8.0\FuncionSumarxd.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\FuncionSumarxd\bin\Debug\net8.0\FuncionSumarxd.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\FuncionSumarxd\obj\Debug\net8.0\FuncionSumarxd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualStudioCode_C#_4\FuncionSumarxd\obj\Debug\net8.0\FuncionSumarxd.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\FuncionSumarxd\obj\Debug\net8.0\FuncionSumarxd.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualStudioCode_C#_4\FuncionSumarxd\obj\Debug\net8.0\FuncionSumarxd.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\FuncionSumarxd\obj\Debug\net8.0\FuncionSumarxd.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\FuncionSumarxd\obj\Debug\net8.0\refint\FuncionSumarxd.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\FuncionSumarxd\obj\Debug\net8.0\FuncionSumarxd.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\FuncionSumarxd\obj\Debug\net8.0\FuncionSumarxd.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\FuncionSumarxd\obj\Debug\net8.0\ref\FuncionSumarxd.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\bin\Debug\net9.0\Ejercicio Fibonacci.exe
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\bin\Debug\net9.0\Ejercicio Fibonacci.deps.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\bin\Debug\net9.0\Ejercicio Fibonacci.runtimeconfig.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\bin\Debug\net9.0\Ejercicio Fibonacci.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\bin\Debug\net9.0\Ejercicio Fibonacci.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\obj\Debug\net9.0\Ejercicio Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\obj\Debug\net9.0\Ejercicio Fibonacci.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\obj\Debug\net9.0\Ejercicio Fibonacci.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\obj\Debug\net9.0\Ejercicio Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\obj\Debug\net9.0\Ejercicio Fibonacci.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\obj\Debug\net9.0\refint\Ejercicio Fibonacci.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\obj\Debug\net9.0\Ejercicio Fibonacci.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\obj\Debug\net9.0\Ejercicio Fibonacci.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\obj\Debug\net9.0\ref\Ejercicio Fibonacci.dll

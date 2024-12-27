@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VisualStudioCode_C#_4\LeerTeclado\bin\Debug\net8.0\LeerTeclado.exe
+C:\Users\user\Desktop\VisualStudioCode_C#_4\LeerTeclado\bin\Debug\net8.0\LeerTeclado.deps.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\LeerTeclado\bin\Debug\net8.0\LeerTeclado.runtimeconfig.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\LeerTeclado\bin\Debug\net8.0\LeerTeclado.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\LeerTeclado\bin\Debug\net8.0\LeerTeclado.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\LeerTeclado\obj\Debug\net8.0\LeerTeclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualStudioCode_C#_4\LeerTeclado\obj\Debug\net8.0\LeerTeclado.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\LeerTeclado\obj\Debug\net8.0\LeerTeclado.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualStudioCode_C#_4\LeerTeclado\obj\Debug\net8.0\LeerTeclado.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\LeerTeclado\obj\Debug\net8.0\LeerTeclado.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\LeerTeclado\obj\Debug\net8.0\refint\LeerTeclado.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\LeerTeclado\obj\Debug\net8.0\LeerTeclado.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\LeerTeclado\obj\Debug\net8.0\LeerTeclado.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\LeerTeclado\obj\Debug\net8.0\ref\LeerTeclado.dll

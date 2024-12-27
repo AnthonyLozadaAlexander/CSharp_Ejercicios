@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ciclos_Practica\bin\Debug\net8.0\Ciclos_Practica.exe
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ciclos_Practica\bin\Debug\net8.0\Ciclos_Practica.deps.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ciclos_Practica\bin\Debug\net8.0\Ciclos_Practica.runtimeconfig.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ciclos_Practica\bin\Debug\net8.0\Ciclos_Practica.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ciclos_Practica\bin\Debug\net8.0\Ciclos_Practica.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ciclos_Practica\obj\Debug\net8.0\Ciclos_Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ciclos_Practica\obj\Debug\net8.0\Ciclos_Practica.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ciclos_Practica\obj\Debug\net8.0\Ciclos_Practica.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ciclos_Practica\obj\Debug\net8.0\Ciclos_Practica.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ciclos_Practica\obj\Debug\net8.0\Ciclos_Practica.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ciclos_Practica\obj\Debug\net8.0\refint\Ciclos_Practica.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ciclos_Practica\obj\Debug\net8.0\Ciclos_Practica.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ciclos_Practica\obj\Debug\net8.0\Ciclos_Practica.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ciclos_Practica\obj\Debug\net8.0\ref\Ciclos_Practica.dll

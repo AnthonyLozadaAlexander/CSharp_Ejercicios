@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicio_Calcular_Importe_a_Pagar/1.0.0": {
+        "runtime": {
+          "Ejercicio_Calcular_Importe_a_Pagar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_Calcular_Importe_a_Pagar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

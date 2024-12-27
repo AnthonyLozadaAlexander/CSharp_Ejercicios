@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\bin\Debug\net9.0\Suma_NumerosArrays.exe
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\bin\Debug\net9.0\Suma_NumerosArrays.deps.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\bin\Debug\net9.0\Suma_NumerosArrays.runtimeconfig.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\bin\Debug\net9.0\Suma_NumerosArrays.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\bin\Debug\net9.0\Suma_NumerosArrays.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\obj\Debug\net9.0\Suma_NumerosArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\obj\Debug\net9.0\Suma_NumerosArrays.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\obj\Debug\net9.0\Suma_NumerosArrays.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\obj\Debug\net9.0\Suma_NumerosArrays.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\obj\Debug\net9.0\Suma_NumerosArrays.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\obj\Debug\net9.0\refint\Suma_NumerosArrays.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\obj\Debug\net9.0\Suma_NumerosArrays.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\obj\Debug\net9.0\Suma_NumerosArrays.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\obj\Debug\net9.0\ref\Suma_NumerosArrays.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas De Multiplicar\bin\Debug\net8.0\Tablas De Multiplicar.exe
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas De Multiplicar\bin\Debug\net8.0\Tablas De Multiplicar.deps.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas De Multiplicar\bin\Debug\net8.0\Tablas De Multiplicar.runtimeconfig.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas De Multiplicar\bin\Debug\net8.0\Tablas De Multiplicar.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas De Multiplicar\bin\Debug\net8.0\Tablas De Multiplicar.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas De Multiplicar\obj\Debug\net8.0\Tablas De Multiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas De Multiplicar\obj\Debug\net8.0\Tablas De Multiplicar.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas De Multiplicar\obj\Debug\net8.0\Tablas De Multiplicar.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas De Multiplicar\obj\Debug\net8.0\Tablas De Multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas De Multiplicar\obj\Debug\net8.0\Tablas De Multiplicar.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas De Multiplicar\obj\Debug\net8.0\refint\Tablas De Multiplicar.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas De Multiplicar\obj\Debug\net8.0\Tablas De Multiplicar.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas De Multiplicar\obj\Debug\net8.0\Tablas De Multiplicar.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas De Multiplicar\obj\Debug\net8.0\ref\Tablas De Multiplicar.dll

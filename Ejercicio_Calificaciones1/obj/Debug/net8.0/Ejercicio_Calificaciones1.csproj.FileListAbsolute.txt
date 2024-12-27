@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\bin\Debug\net8.0\Ejercicio_Calificaciones1.exe
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\bin\Debug\net8.0\Ejercicio_Calificaciones1.deps.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\bin\Debug\net8.0\Ejercicio_Calificaciones1.runtimeconfig.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\bin\Debug\net8.0\Ejercicio_Calificaciones1.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\bin\Debug\net8.0\Ejercicio_Calificaciones1.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\obj\Debug\net8.0\Ejercicio_Calificaciones1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\obj\Debug\net8.0\Ejercicio_Calificaciones1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\obj\Debug\net8.0\Ejercicio_Calificaciones1.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\obj\Debug\net8.0\Ejercicio_Calificaciones1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\obj\Debug\net8.0\Ejercicio_Calificaciones1.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\obj\Debug\net8.0\refint\Ejercicio_Calificaciones1.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\obj\Debug\net8.0\Ejercicio_Calificaciones1.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\obj\Debug\net8.0\Ejercicio_Calificaciones1.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\obj\Debug\net8.0\ref\Ejercicio_Calificaciones1.dll
