@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probanding", "POO\Probandin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suma_NumerosArrays", "Suma_NumerosArrays\Suma_NumerosArrays.csproj", "{544734BB-06B8-422A-82A9-22A014BABCA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HipotenusaDeUnCateto", "HipotenusaDeUnCateto\HipotenusaDeUnCateto.csproj", "{4D8D3F38-928C-4421-8CA0-213D0EA7ED61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -170,6 +172,10 @@ Global
 		{544734BB-06B8-422A-82A9-22A014BABCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{544734BB-06B8-422A-82A9-22A014BABCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{544734BB-06B8-422A-82A9-22A014BABCA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8D3F38-928C-4421-8CA0-213D0EA7ED61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8D3F38-928C-4421-8CA0-213D0EA7ED61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8D3F38-928C-4421-8CA0-213D0EA7ED61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8D3F38-928C-4421-8CA0-213D0EA7ED61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DCEBA85E-FA20-4DFE-9584-E1C337DD375C} = {76FE55AD-F37A-4582-B081-E6EE39C62BC0}
