@@ -12,3 +12,4 @@ C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calcular_Importe_a_Pagar\o
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calcular_Importe_a_Pagar\obj\Debug\net8.0\Ejercicio_Calcular_Importe_a_Pagar.pdb
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calcular_Importe_a_Pagar\obj\Debug\net8.0\Ejercicio_Calcular_Importe_a_Pagar.genruntimeconfig.cache
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calcular_Importe_a_Pagar\obj\Debug\net8.0\ref\Ejercicio_Calcular_Importe_a_Pagar.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calcular_Importe_a_Pagar\obj\Debug\net8.0\Ejercicio_Calcular_Importe_a_Pagar.sourcelink.json

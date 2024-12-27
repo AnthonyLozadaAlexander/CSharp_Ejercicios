@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio_Calcular_Importe_a_Pagar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+694a027fde76ddbbaaac1fe7bb742954a35c3e3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicio_Calcular_Importe_a_Pagar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio_Calcular_Importe_a_Pagar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
