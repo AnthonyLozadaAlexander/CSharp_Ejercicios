@@ -7,9 +7,11 @@ C1 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Ingrese el valor del cateto 2: ");
 C2 = Convert.ToDouble(Console.ReadLine());
 
+// Se agrego una condicion if para que los catetos sean mayores a 0
+
 if (C1 <= 0 || C2 <= 0)
 {
-  
+
  Console.WriteLine("Los catetos deben ser mayores a 0");
 
 }
