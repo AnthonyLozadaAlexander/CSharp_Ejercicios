@@ -16,11 +16,11 @@ for (int i = 1; i <= 10; i++)
 
   double Resultado = Sueldo * Horas;
 
-  Console.WriteLine("---------------------------------------");
+  Console.WriteLine("-------------------------------------------------");
 
   Console.WriteLine("El sueldo del empleado " + i + " es: " + Resultado);
 
-  Console.WriteLine("---------------------------------------");
+  Console.WriteLine("-------------------------------------------------");
   
 }
 

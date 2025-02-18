@@ -19,12 +19,13 @@ else{
 
 
   H = Math.Sqrt(Math.Pow(C1, 2) + Math.Pow(C2, 2));
+  H = Math.Round(H, 2);
 
   Console.WriteLine("-----------------------------");
 
   Console.WriteLine($"La hipotenusa es: {H}");
+
   
 }
-
 
 Console.ReadKey();

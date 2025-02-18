@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\bin\Debug\net9.0\HipotenusaDeUnCateto.exe
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\bin\Debug\net9.0\HipotenusaDeUnCateto.deps.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\bin\Debug\net9.0\HipotenusaDeUnCateto.runtimeconfig.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\bin\Debug\net9.0\HipotenusaDeUnCateto.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\bin\Debug\net9.0\HipotenusaDeUnCateto.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\obj\Debug\net9.0\HipotenusaDeUnCateto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\obj\Debug\net9.0\HipotenusaDeUnCateto.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\obj\Debug\net9.0\HipotenusaDeUnCateto.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\obj\Debug\net9.0\HipotenusaDeUnCateto.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\obj\Debug\net9.0\HipotenusaDeUnCateto.sourcelink.json
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\obj\Debug\net9.0\HipotenusaDeUnCateto.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\obj\Debug\net9.0\refint\HipotenusaDeUnCateto.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\obj\Debug\net9.0\HipotenusaDeUnCateto.pdb
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\obj\Debug\net9.0\HipotenusaDeUnCateto.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualStudioCode_C#_4\HipotenusaDeUnCateto\obj\Debug\net9.0\ref\HipotenusaDeUnCateto.dll
