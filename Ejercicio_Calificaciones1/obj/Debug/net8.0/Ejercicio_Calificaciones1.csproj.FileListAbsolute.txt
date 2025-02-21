@@ -12,3 +12,4 @@ C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\obj\Debug\
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\obj\Debug\net8.0\Ejercicio_Calificaciones1.pdb
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\obj\Debug\net8.0\Ejercicio_Calificaciones1.genruntimeconfig.cache
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\obj\Debug\net8.0\ref\Ejercicio_Calificaciones1.dll
+c:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio_Calificaciones1\obj\Debug\net8.0\Ejercicio_Calificaciones1.sourcelink.json

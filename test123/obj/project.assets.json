@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\test123\\test123.csproj",
-      "projectName": "test123",
-      "projectPath": "C:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\test123\\test123.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\test123\\Comparacion.csproj",
+      "projectName": "Comparacion",
+      "projectPath": "C:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\test123\\Comparacion.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\test123\\obj\\",
       "projectStyle": "PackageReference",
