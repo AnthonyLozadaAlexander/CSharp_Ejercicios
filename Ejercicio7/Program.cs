@@ -6,12 +6,12 @@ namespace Ejercicio7
   {
     public static void Main(string[] args)
     {
-        double iva, total, grantotal, costo = 0;
+        double iva, total, granTotal, costo = 0;
         int cantidad = 0;
         string valor = "";
         iva = 0;
         total = 0;
-        grantotal = 0;
+        granTotal = 0;
 
         Console.WriteLine("Ingrese el Costo");
         valor = Console.ReadLine();
@@ -28,8 +28,13 @@ namespace Ejercicio7
         iva = total * 0.16;
 
         // calculamos el gran total
-        grantotal = total + iva;
-        
+        granTotal = total + iva;
+
+        Console.WriteLine("Total   {0}", total);
+        Console.WriteLine("IVA     {0}", iva);
+        Console.WriteLine("    -------");
+        Console.WriteLine("Gran Total   {0}", granTotal);
+
     }
   }
 }
