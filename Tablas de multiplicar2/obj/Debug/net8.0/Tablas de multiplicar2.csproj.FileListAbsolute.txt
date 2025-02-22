@@ -12,3 +12,4 @@ C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas de multiplicar2\obj\Debug\net
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas de multiplicar2\obj\Debug\net8.0\Tablas de multiplicar2.pdb
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas de multiplicar2\obj\Debug\net8.0\Tablas de multiplicar2.genruntimeconfig.cache
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas de multiplicar2\obj\Debug\net8.0\ref\Tablas de multiplicar2.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Tablas de multiplicar2\obj\Debug\net8.0\Tablas de multiplicar2.sourcelink.json
