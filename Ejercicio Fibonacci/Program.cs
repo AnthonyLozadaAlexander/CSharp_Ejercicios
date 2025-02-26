@@ -1,10 +1,10 @@
 ﻿Console.WriteLine("Algoritmo Fibonacci");
 Console.WriteLine("-------------------");
 
-Console.Write("Cuantos numeros desea ingresar?: ");
-int cantidad = Convert.ToInt32(Console.ReadLine());
+Console.Write("Ingrese hasta que numero desea la secuencia: ");
+int n = Convert.ToInt32(Console.ReadLine());
 
-  Fibonacci(cantidad); 
+  Fibonacci(n); 
 
 static void Fibonacci(int n)
 {

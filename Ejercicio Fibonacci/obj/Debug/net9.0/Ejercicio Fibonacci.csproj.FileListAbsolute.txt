@@ -12,3 +12,4 @@ C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\obj\Debug\net9.0
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\obj\Debug\net9.0\Ejercicio Fibonacci.pdb
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\obj\Debug\net9.0\Ejercicio Fibonacci.genruntimeconfig.cache
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\obj\Debug\net9.0\ref\Ejercicio Fibonacci.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Ejercicio Fibonacci\obj\Debug\net9.0\Ejercicio Fibonacci.sourcelink.json
