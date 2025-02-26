@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HipotenusaDeUnCateto", "Hip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio7", "Ejercicio7\Ejercicio7.csproj", "{B27304B6-3B39-4C1C-83C6-0077661926E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio8", "Ejercicio8\Ejercicio8.csproj", "{C537717C-72B1-4E54-884E-31A749FAD3FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -391,6 +393,18 @@ Global
 		{B27304B6-3B39-4C1C-83C6-0077661926E3}.Release|x64.Build.0 = Release|Any CPU
 		{B27304B6-3B39-4C1C-83C6-0077661926E3}.Release|x86.ActiveCfg = Release|Any CPU
 		{B27304B6-3B39-4C1C-83C6-0077661926E3}.Release|x86.Build.0 = Release|Any CPU
+		{C537717C-72B1-4E54-884E-31A749FAD3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C537717C-72B1-4E54-884E-31A749FAD3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C537717C-72B1-4E54-884E-31A749FAD3FA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C537717C-72B1-4E54-884E-31A749FAD3FA}.Debug|x64.Build.0 = Debug|Any CPU
+		{C537717C-72B1-4E54-884E-31A749FAD3FA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C537717C-72B1-4E54-884E-31A749FAD3FA}.Debug|x86.Build.0 = Debug|Any CPU
+		{C537717C-72B1-4E54-884E-31A749FAD3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C537717C-72B1-4E54-884E-31A749FAD3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C537717C-72B1-4E54-884E-31A749FAD3FA}.Release|x64.ActiveCfg = Release|Any CPU
+		{C537717C-72B1-4E54-884E-31A749FAD3FA}.Release|x64.Build.0 = Release|Any CPU
+		{C537717C-72B1-4E54-884E-31A749FAD3FA}.Release|x86.ActiveCfg = Release|Any CPU
+		{C537717C-72B1-4E54-884E-31A749FAD3FA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

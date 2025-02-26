@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\Ejercicio_Calificaciones1\\Ejercicio_Calificaciones1.csproj": {}
+    "C:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\Ejercicio_Calificaciones1\\Ejercicio_Calificaciones1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\Ejercicio_Calificaciones1\\Ejercicio_Calificaciones1.csproj": {
+    "C:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\Ejercicio_Calificaciones1\\Ejercicio_Calificaciones1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\Ejercicio_Calificaciones1\\Ejercicio_Calificaciones1.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\Ejercicio_Calificaciones1\\Ejercicio_Calificaciones1.csproj",
         "projectName": "Ejercicio_Calificaciones1",
-        "projectPath": "c:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\Ejercicio_Calificaciones1\\Ejercicio_Calificaciones1.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\Ejercicio_Calificaciones1\\Ejercicio_Calificaciones1.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\Ejercicio_Calificaciones1\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\VisualStudioCode_C#_4\\Ejercicio_Calificaciones1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
