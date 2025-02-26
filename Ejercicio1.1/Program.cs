@@ -23,7 +23,6 @@ while (contadorPrimos < 10)
     Console.WriteLine($"El Numero {numero} es Primo");
     contadorPrimos++;
 
-
   }
 
   numero++;
