@@ -7,8 +7,6 @@ namespace Suma_NumerosArrays
      static void Main(string[] args)
      {
 
-      
-
       Console.WriteLine("Escribir un algoritmo que solicite al usuario varios numeros y los almanece en un arreglo, Suma todos los números del arreglo y muestre el resultado.");
       Console.WriteLine("------------------------------------------------------------------");
       
@@ -17,10 +15,10 @@ namespace Suma_NumerosArrays
       if (int.TryParse(Console.ReadLine(), out CantidadNum) && CantidadNum > 0)
       { // si el valor ingresado es un numero entero y mayor a 0
 
-          int[] numeros = new int[CantidadNum]; //? Declaracion de arreglo que almacena una cantidad de numeros enteros ingresadas por teclado.
-          int Suma = 0;
+          int[] numeros = new int[CantidadNum]; //? Declaracion de arreglo que indica la cantidad de elementos para almacenar los numeros ingresados por el usuario
+          int Suma = 0; // acumulador de la suma de los numeros ingresados por el usuario
 
-            for (int i = 0; i <= CantidadNum-1; i++)
+            for (int i = 0; i <= CantidadNum - 1; i++)
             { //? Para i desde 0 hasta CantidadNum - 1 hacer
 
                 Console.Write($"Ingrese el numero {i + 1}: ");

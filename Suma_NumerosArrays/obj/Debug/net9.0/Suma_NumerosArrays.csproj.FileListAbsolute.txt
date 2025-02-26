@@ -12,3 +12,4 @@ C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\obj\Debug\net9.0\
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\obj\Debug\net9.0\Suma_NumerosArrays.pdb
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\obj\Debug\net9.0\Suma_NumerosArrays.genruntimeconfig.cache
 C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\obj\Debug\net9.0\ref\Suma_NumerosArrays.dll
+C:\Users\user\Desktop\VisualStudioCode_C#_4\Suma_NumerosArrays\obj\Debug\net9.0\Suma_NumerosArrays.sourcelink.json
