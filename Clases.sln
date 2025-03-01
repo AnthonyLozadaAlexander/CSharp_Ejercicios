@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tablas De Multiplicar", "Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tablas de multiplicar2", "Tablas de multiplicar2\Tablas de multiplicar2.csproj", "{8B780DD5-B859-4F61-8A64-3B9222F11AB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparacion", "test123\Comparacion.csproj", "{BBFE2FFA-0D0C-4F3D-BA3A-A5864F9CBD57}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1.1", "Ejercicio1.1\Ejercicio1.1.csproj", "{B4054782-0F84-413E-9F29-5896BCD24099}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_Fizz_Buzz", "Ejercicio_Fizz_Buzz\Ejercicio_Fizz_Buzz.csproj", "{4801EE47-3648-45C3-830A-214956711AEA}"
@@ -62,6 +60,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio9", "Ejercicio9\Ejercicio9.csproj", "{844464AA-8E9C-4291-A6D2-099C503F6DA9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio10", "Ejercicio10\Ejercicio10.csproj", "{18EBE369-BF9E-44F1-AFF3-36A8577A1DE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioProductos", "EjercicioProductos\EjercicioProductos.csproj", "{52F19EC7-68F1-493A-A7E0-EE86B7308D75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -133,18 +133,6 @@ Global
 		{8B780DD5-B859-4F61-8A64-3B9222F11AB6}.Release|x64.Build.0 = Release|Any CPU
 		{8B780DD5-B859-4F61-8A64-3B9222F11AB6}.Release|x86.ActiveCfg = Release|Any CPU
 		{8B780DD5-B859-4F61-8A64-3B9222F11AB6}.Release|x86.Build.0 = Release|Any CPU
-		{BBFE2FFA-0D0C-4F3D-BA3A-A5864F9CBD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BBFE2FFA-0D0C-4F3D-BA3A-A5864F9CBD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BBFE2FFA-0D0C-4F3D-BA3A-A5864F9CBD57}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{BBFE2FFA-0D0C-4F3D-BA3A-A5864F9CBD57}.Debug|x64.Build.0 = Debug|Any CPU
-		{BBFE2FFA-0D0C-4F3D-BA3A-A5864F9CBD57}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{BBFE2FFA-0D0C-4F3D-BA3A-A5864F9CBD57}.Debug|x86.Build.0 = Debug|Any CPU
-		{BBFE2FFA-0D0C-4F3D-BA3A-A5864F9CBD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BBFE2FFA-0D0C-4F3D-BA3A-A5864F9CBD57}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BBFE2FFA-0D0C-4F3D-BA3A-A5864F9CBD57}.Release|x64.ActiveCfg = Release|Any CPU
-		{BBFE2FFA-0D0C-4F3D-BA3A-A5864F9CBD57}.Release|x64.Build.0 = Release|Any CPU
-		{BBFE2FFA-0D0C-4F3D-BA3A-A5864F9CBD57}.Release|x86.ActiveCfg = Release|Any CPU
-		{BBFE2FFA-0D0C-4F3D-BA3A-A5864F9CBD57}.Release|x86.Build.0 = Release|Any CPU
 		{B4054782-0F84-413E-9F29-5896BCD24099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B4054782-0F84-413E-9F29-5896BCD24099}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4054782-0F84-413E-9F29-5896BCD24099}.Debug|x64.ActiveCfg = Debug|Any CPU
@@ -433,6 +421,18 @@ Global
 		{18EBE369-BF9E-44F1-AFF3-36A8577A1DE2}.Release|x64.Build.0 = Release|Any CPU
 		{18EBE369-BF9E-44F1-AFF3-36A8577A1DE2}.Release|x86.ActiveCfg = Release|Any CPU
 		{18EBE369-BF9E-44F1-AFF3-36A8577A1DE2}.Release|x86.Build.0 = Release|Any CPU
+		{52F19EC7-68F1-493A-A7E0-EE86B7308D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F19EC7-68F1-493A-A7E0-EE86B7308D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F19EC7-68F1-493A-A7E0-EE86B7308D75}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{52F19EC7-68F1-493A-A7E0-EE86B7308D75}.Debug|x64.Build.0 = Debug|Any CPU
+		{52F19EC7-68F1-493A-A7E0-EE86B7308D75}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{52F19EC7-68F1-493A-A7E0-EE86B7308D75}.Debug|x86.Build.0 = Debug|Any CPU
+		{52F19EC7-68F1-493A-A7E0-EE86B7308D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F19EC7-68F1-493A-A7E0-EE86B7308D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F19EC7-68F1-493A-A7E0-EE86B7308D75}.Release|x64.ActiveCfg = Release|Any CPU
+		{52F19EC7-68F1-493A-A7E0-EE86B7308D75}.Release|x64.Build.0 = Release|Any CPU
+		{52F19EC7-68F1-493A-A7E0-EE86B7308D75}.Release|x86.ActiveCfg = Release|Any CPU
+		{52F19EC7-68F1-493A-A7E0-EE86B7308D75}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
